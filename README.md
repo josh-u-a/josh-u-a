@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to build better Machine learning models and neural networks.
 - 💞️ I’m looking to collaborate on anything. I love data and computational physics/mathematical modelling.
 - 📫 How to reach me: joshyewa@gmail.com
+- 💼 My portfolio can be found here: https://josh-u-a.github.io/portfolio/
 
 <!---
 josh-u-a/josh-u-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
